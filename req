@@ -1,19 +1,13 @@
-GET https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh HTTP/2.0
-accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-sec-fetch-site: same-origin
-cookie: __gads=ID=d8ac228eea229ee6:T=1694818429:RT=1694818429:S=ALNI_MYUa0BxvFkBSUp_b3Y4AtZVSTKlPA
-cookie: __gpi=UID=000009c6cf8d8e46:T=1694818429:RT=1694818429:S=ALNI_MY8DDwtdlT-wgoKXLvvdmP2BGRjyQ
-cookie: _ga=GA1.2.1391557839.1694818381
-cookie: _ga_S812YQPLT2=GS1.1.1694818380.1.1.1694818428.0.0.0
-cookie: _gat=1
-cookie: _gid=GA1.2.1367726484.1694818429
-cookie: prov=c3d47516-ed64-fb50-2c3b-ec91794661e8
-cookie: OptanonAlertBoxClosed=2023-09-15T22:53:04.263Z
-cookie: OptanonConsent=isGpcEnabled=0&datestamp=Fri+Sep+15+2023+16%3A53%3A04+GMT-0600+(Central+Standard+Time)&version=6.37.0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0003%3A1%2CC0004%3A1%2CC0002%3A1%2CC0001%3A1
-sec-fetch-dest: document
-accept-language: en-US,en;q=0.9
-sec-fetch-mode: navigate
-user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15
-referer: https://www.google.com/
-accept-encoding: gzip, deflate, br
+GET / HTTP/1.1
+Host: updates.expressvpn.com
+Sec-Fetch-Site: none
+Cookie: _gcl_au=1.1.1866742758.1696381711; mp_ZXhwcmVzc3Zwbg==_alooma=%7B%22distinct_id%22%3A%20%2218af83aad727fa-06ca09502b6d22-38626b4b-1aeaa0-18af83aad73a9c%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D; _fbp=fb.1.1696381712265.1895363812; _uetsid=890d66b0625211ee99514fd1d7963b5d; _uetvid=890eeec0625211eea5b2ebc4327a274d; _ga=GA1.2.1192778002.1696381712; _gid=GA1.2.943843635.1696381712
+Connection: keep-alive
+Sec-Fetch-Mode: navigate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
 content-length: 0
+
