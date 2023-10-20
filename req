@@ -1,7 +1,9 @@
 GET / HTTP/1.1
+
 Host: updates.expressvpn.com
 Sec-Fetch-Site: none
 Cookie: _gcl_au=1.1.1866742758.1696381711; mp_ZXhwcmVzc3Zwbg==_alooma=%7B%22distinct_id%22%3A%20%2218af83aad727fa-06ca09502b6d22-38626b4b-1aeaa0-18af83aad73a9c%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D; _fbp=fb.1.1696381712265.1895363812; _uetsid=890d66b0625211ee99514fd1d7963b5d; _uetvid=890eeec0625211eea5b2ebc4327a274d; _ga=GA1.2.1192778002.1696381712; _gid=GA1.2.943843635.1696381712
+
 Connection: keep-alive
 Sec-Fetch-Mode: navigate
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
